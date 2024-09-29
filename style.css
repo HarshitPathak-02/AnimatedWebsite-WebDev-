@@ -153,7 +153,6 @@ nav h3 {
 
 #hero-2 {
     background: linear-gradient(#FE320A, #fe3f0a);
-
     height: 30vw;
     width: 30vw;
     border-radius: 50%;
@@ -205,7 +204,7 @@ nav h3 {
     width: 100%;
     background-color: #EFEAE3;
     padding: 8vw 0;
-    position: relative;
+    position: relative; 
 }
 
 #moving-text {
